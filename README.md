@@ -64,6 +64,9 @@ Rahmani, A. R., Li, L., Vanover, B., Bertrand, C., & Rawat, S. (2022). Towards S
 
 [Building Speech Analytics Using AWS AI Services](https://www.youtube.com/watch?v=twsGnp2X-aQ)
 
+## Blog Posts
+[Navigating Fair Housing Guardrails in LLMs (January 2024)](https://www.zillow.com/tech/navigating-fair-housing-guardrails-in-llms/)
+
 # Recommendation Systems/Time Series
 ## Featured Publications
 Chakraborty, S., Shah, S., Soltani, K., Swigart, A., Yang, L., & Buckingham, K. (2020, December). Building an automated and self-aware anomaly detection system. In 2020 IEEE International Conference on Big Data (Big Data) (pp. 1465-1475). IEEE. [[Paper]](https://arxiv.org/pdf/2011.05047.pdf) [[Code]](https://github.com/zillow/luminaire)
